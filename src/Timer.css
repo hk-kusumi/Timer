@@ -1,0 +1,25 @@
+
+.Stopwatch-display {
+    background-image: url("https://t4.ftcdn.net/jpg/04/45/66/39/360_F_445663915_O6BXSQLdwLwx4UUDQKC4NkKZu7vrS1gN.jpg");
+   /*  background: #ebdc0b; */
+   padding-top: 150px;
+    width: 100%;
+    height: 648px;
+    justify-content: center;   
+    position: relative;       
+}
+
+.Stopwatch-number {    
+    color: #f4f5fa;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 10em;
+}
+
+
+.Stopwatch-button {font-weight: bold;
+    color: darkblue;
+    font-family: 'Segoe UI';
+    box-shadow: none;
+    font-size: xx-large;
+}
+
